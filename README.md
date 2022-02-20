@@ -9,7 +9,7 @@
 - I learnt about andorid SDK and the different components of an android mobile application.
 - Individually coded each of the functionalities of the music streaming application. 
 
-- The Hungry Bear - a restaurant review web application
+- [The Hungry Bear - a restaurant review web application](https://github.com/carolyn2004/The-Hungry-Bear-)
 - This was my first web application created using HTML, CSS (design), Javascript, MySQL (database) & Node server.js made from scratch.
 - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS). 
 - Learnt about the front end and backend of creating a web application. (3 tier web architecture).
