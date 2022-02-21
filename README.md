@@ -1,5 +1,5 @@
 # 🌸 About Me 🌸
-- Hi there! I am Carolyn a student pursuing a diploma in Information Technology.
+- Hi there! I am Carolyn a student pursuing a diploma in Information Technology from 2021-2023.
 - I am interested in software development and coding.
 - I aspire to create meaningful software to help people. 
 
