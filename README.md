@@ -4,7 +4,7 @@
 - I aspire to create meaningful software to help people. 
 
 # 🌞 Projects I've worked on 🌞
-- Euphoria - a music streaming app
+- [Euphoria - a music streaming app](https://github.com/carolyn2004/Euphoria)
   - This was my first android coding project made using android studio and java.
   - I learnt about andorid SDK and the different components of an android mobile application.
   - Individually coded each of the functionalities of the music streaming application. 
