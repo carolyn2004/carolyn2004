@@ -4,7 +4,7 @@
 - I aspire to create meaningful software to help people. 
 
 # 🌞 Projects I've worked on 🌞
-Disclaimer: All images used in projects are sourced from the internet. I do not own any of the pictures. These images were used for school projects only and for no monetary purposes.
+Disclaimer: All images used in projects are sourced from the internet. I do not own any of the pictures. These images were used for school projects only and for no monetary purposes. This applies to certain texts and information used as well.
 - [Euphoria - a music streaming app](https://github.com/carolyn2004/Euphoria)
   - This was my first android coding project made using android studio and java.
   - I learnt about andorid SDK and the different components of an android mobile application.
