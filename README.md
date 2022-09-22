@@ -13,7 +13,7 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
    - Attained distinction for User Experience and Interface Design.
   
 
-- [The Hungry Bear - a restaurant review web application](https://github.com/carolyn2004/The-Hungry-Bear-)
+- [The Hungry Bear - a restaurant review web application](https://github.com/carolyn2004/The-Hungry-Bear)
   - This was my first web application created using HTML, CSS (design), Javascript, MySQL (database) & Node server.js made from scratch.
   - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS). 
   - Learnt about the front end and backend of creating a web application (3 tier web architecture).
