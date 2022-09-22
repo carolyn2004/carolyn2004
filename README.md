@@ -29,7 +29,7 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
 
 # 📫 How to reach me 📫
 - Let's get in touch!
-- LinkedIn: [linkedin.com/in/carolyn-mohanty-b5828a217](linkedin.com/in/carolyn-mohanty-b5828a217/)
+- LinkedIn: [linkedin.com/in/carolyn-mohanty-b5828a217](https://www.linkedin.com/in/carolyn-mohanty-b5828a217)
 
 <!---
 carolyn2004/carolyn2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
