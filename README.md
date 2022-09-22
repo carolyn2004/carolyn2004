@@ -1,6 +1,6 @@
 # 🌸 About Me 🌸
 - Hi there! I am Carolyn a student pursuing a diploma in Information Technology from 2021-2023.
-- I am interested in mainly application development, especially mobile application development.
+- I am interested in areas such as UX design, web development and application development.
 
 # 🌞 Projects I've worked on 🌞
 Disclaimer: All images used in projects are sourced from the internet. I do not own any of the pictures. These images were used for school projects only and for no monetary purposes. This applies to certain texts and information used as well.
