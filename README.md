@@ -17,7 +17,8 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
   - This was my first web application created using HTML, CSS (design), Javascript, MySQL (database) & Node server.js made from scratch.
   - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS). 
   - Learnt about the front end and backend of creating a web application (3 tier web architecture).
-  - Scored A for both modules involved in this project - Coding and Development Project & Database Application Development
+  - This is a single page web application.
+  - Scored A for both modules involved in this project - Coding and Development Project & Database Application Development.
 
 # 📫 How to reach me 📫
 - Let's get in touch!
