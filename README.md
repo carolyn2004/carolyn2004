@@ -20,6 +20,13 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
   - This is a single page web application.
   - Scored A for both modules involved in this project - Coding and Development Project & Database Application Development.
 
+- [Econative - an ecommerce website selling sustainable products](https://github.com/carolyn2004/Econative)
+  - A dynamic web application developed using Mongo, Express, Angular framework, and Node.js.
+  - Both frontend and backend of web application was built from scratch.
+  - Used libraries such as leaflet js. to display a map of the store's physical location. 
+  - Web application was coded using VS code and this is a single based web application.
+  - Scored A for this module - Full Stack Web Development.
+
 # 📫 How to reach me 📫
 - Let's get in touch!
 - LinkedIn: [linkedin.com/in/carolyn-mohanty-b5828a217](linkedin.com/in/carolyn-mohanty-b5828a217)
