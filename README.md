@@ -37,6 +37,11 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
     - A flutter mobile application programmed on android studio using dart language.
     - The database used for this application is Google Firebase.
     - Attained A for this module - Mobile Application Development.
+    
+ - [Data Structures and Algorithm Assignments - python language](https://github.com/carolyn2004/Data-Structures-and-Algorithm-Assignments)
+    - This module was my first exposure to the computing language, python.
+    - Assignments involve concepts of stacks, queues, linked lists and trees, searching techniques and sorting algorithms.
+    - Attained A for this module - Data Structures and Algorithm
  
 
 # 📫 How to reach me 📫
