@@ -2,9 +2,10 @@
 - Hi there! I am Carolyn a student pursuing a diploma in Information Technology from 2021-2023.
 - I am interested in areas such as UX design, web development and application development.
 
-![Carolyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolyn2004&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=carolyn2004&show_icons=true&theme=radical" />
+<img src="[https://github-readme-stats.vercel.app/api?username=carolyn2004&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004)](https://github.com/carolyn2004/github-readme-stats)" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004)](https://github.com/carolyn2004/github-readme-stats)
+
 
 # 🌞 Projects I've worked on 🌞
 Disclaimer: All images used in projects are sourced from the internet. I do not own any of the pictures. These images were used for school projects only and for no monetary purposes. This applies to certain texts and information used as well.
