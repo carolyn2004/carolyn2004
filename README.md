@@ -3,7 +3,7 @@
 - I am interested in areas such as UX design, web development and application development.
 
 <img src="https://github-readme-stats.vercel.app/api?username=carolyn2004&show_icons=true&theme=radical" />
-<img src="[https://github-readme-stats.vercel.app/api?username=carolyn2004&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004)](https://github.com/carolyn2004/github-readme-stats)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004" />
 
 
 
