@@ -32,7 +32,7 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
   - Web application was coded using VS code and this is a single based web application.
   - Attained A for this module - Full Stack Web Development.
   
- - [My Plate - a mobile application developed](https://github.com/carolyn2004/My-Plate)
+ - [My Plate - a mobile application aimed to promote healthy living](https://github.com/carolyn2004/My-Plate)
     - A health app aimed to encourage users to be more cautious of their health and calorie intake.
     - A flutter mobile application programmed on android studio using dart language.
     - The database used for this application is Google Firebase.
