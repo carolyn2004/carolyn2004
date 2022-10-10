@@ -18,14 +18,14 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
    - Attained distinction for User Experience and Interface Design.
   
 
-- [The Hungry Bear - a restaurant review web application](https://github.com/carolyn2004/The-Hungry-Bear)
+- [The Hungry Bear - a restaurant review web application developed using javascript and mySQL](https://github.com/carolyn2004/The-Hungry-Bear)
   - This was my first web application created using HTML, CSS (design), Javascript, MySQL (database) & Node server.js made from scratch.
   - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS). 
   - Learnt about the front end and backend of creating a web application (3 tier web architecture).
   - This is a single page web application.
   - Attained A for both modules involved in this project - Coding and Development Project & Database Application Development.
 
-- [Econative - an ecommerce website selling sustainable products](https://github.com/carolyn2004/Econative)
+- [Econative - an ecommerce website selling sustainable products developed using angular](https://github.com/carolyn2004/Econative)
   - A dynamic web application developed using Mongo, Express, Angular framework, and Node.js.
   - Both frontend and backend of web application was built from scratch.
   - Used libraries such as leaflet js. to display a map of the store's physical location. 
