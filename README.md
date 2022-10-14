@@ -45,7 +45,6 @@ Feel free to click on repositories to view all my projects.
     - This module was my first exposure to the computing language, python.
     - Assignments involve concepts of stacks, queues, linked lists and trees, searching techniques and sorting algorithms.
     - Attained A for this module - Data Structures and Algorithm
- 
 
 # 📫 How to reach me 📫
 - Let's get in touch!
