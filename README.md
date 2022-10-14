@@ -45,6 +45,22 @@ Feel free to click on repositories to view all my projects.
     - This module was my first exposure to the computing language, python.
     - Assignments involve concepts of stacks, queues, linked lists and trees, searching techniques and sorting algorithms.
     - Attained A for this module - Data Structures and Algorithm
+  
+ - [Movie Review Website - a movie review web application](https://github.com/carolyn2004/Movie-Review-Website)
+    - This website was also built using 3 tier web architecture and is also a single-page web application.
+    - It was created using HTML, CSS (design), Javascript, MYSQL (database) & Node server.js from scratch.
+    - This project is not graded and was done with the guidance of a lecturer.
+    - Users are able to leave reviews and ratings on each of the movies as well as read more about each movie.
+    
+ - [Theme Picker - an application that can change themese](https://github.com/carolyn2004/Theme-Picker)
+    - Through this flutter project, I was able to learn the concept of shared preferences.
+    - Users can change the theme of the web application, and even after leaving the application the theme of the application remains.
+    - This project is not graded and was done with the guidance of a lecturer.
+    
+ - [Transport Expense Tracker - an application that helps users to keep track of their expenses](Transport-Expense-Tracker)
+    - This mobile application is built using flutter as well as google firebase to store user's data.
+    - User can perform CRUD operations in this application.
+    - This project is not graded and was done with the guidance of a lecturer.
 
 # 📫 How to reach me 📫
 - Let's get in touch!
