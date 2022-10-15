@@ -59,7 +59,7 @@ Feel free to click on repositories to view all my projects.
     - Users are able to leave reviews and ratings on each of the movies as well as read more about each movie.
     
  - [Theme Picker - an application that can change themes](https://github.com/carolyn2004/Theme-Picker)
-    - Through this flutter project, I was able to learn the concept of shared preferences.
+    - Through this flutter project, I learnt about the concept of shared preferences.
     - Users can change the theme of the web application, and even after leaving the application the theme of the application remains.
     - This project is not graded and was done with the guidance of a lecturer.
     
