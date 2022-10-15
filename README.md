@@ -44,7 +44,13 @@ Feel free to click on repositories to view all my projects.
  - [Data Structures and Algorithm Assignments](https://github.com/carolyn2004/Data-Structures-and-Algorithm-Assignments)
     - This module was my first exposure to the computing language, python.
     - Assignments involve concepts of stacks, queues, linked lists and trees, searching techniques and sorting algorithms.
-    - Attained A for this module - Data Structures and Algorithm
+    - Attained A for this module - Data Structures and Algorithm.
+ 
+ - [Agile-Methodology-and-Design-Thinking-Assignment](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment)
+    - This module taught me more about agile and scrum principles.
+    - This was my first exposure to the software, Jira. 
+    - Proposed an application called Owl inc recommending study areas to those who may not have a condusive environment to study at home during Covid 19. 
+    - Attained A for this module - Agile-Methodology-and-Design-Thinking.
   
  - [Movie Review Website - a movie review web application](https://github.com/carolyn2004/Movie-Review-Website)
     - This website was also built using 3 tier web architecture and is also a single-page web application.
@@ -62,6 +68,8 @@ Feel free to click on repositories to view all my projects.
     - Users can use this application to keep track of their travel expenses.
     - User can perform CRUD operations in this application.
     - This project is not graded and was done with the guidance of a lecturer.
+    
+  
 
 # 📫 How to reach me 📫
 - Let's get in touch!
