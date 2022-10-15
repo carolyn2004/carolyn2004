@@ -17,7 +17,7 @@ Feel free to click on repositories to view all my projects.
   - I learnt about andorid SDK and the different components of an android mobile application.
   - Individually coded each of the functionalities of the music streaming application. 
   - I also designed it using Adobe XD (Module: User Experience and Interface Design).
-   - Attained a B for Computational Thinking module.
+   - Attained B for Computational Thinking module.
    - Attained distinction for User Experience and Interface Design.
   
 
