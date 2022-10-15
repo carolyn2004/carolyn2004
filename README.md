@@ -73,6 +73,7 @@ Feel free to click on repositories to view all my projects.
 
 # 📫 How to reach me 📫
 - Let's get in touch!
+- You may view more information about me and my certification at my linkedin below :)
 - LinkedIn: [linkedin.com/in/carolyn-mohanty-b5828a217](https://www.linkedin.com/in/carolyn-mohanty-b5828a217)
 
 <!---
