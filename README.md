@@ -74,6 +74,7 @@ Feel free to click on repositories to view all my projects.
     - Application was also deployed using azure cloud.
     - Code includes both selenium and junit software testing.
     - Project was integrated with Jira for change management, bug management, automation and release management.
+    - Attained A for this module - DevOps Essentials.
       
 # 📫 How to reach me 📫
 - Let's get in touch!
