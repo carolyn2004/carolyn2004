@@ -68,9 +68,13 @@ Feel free to click on repositories to view all my projects.
     - Users can use this application to keep track of their travel expenses.
     - User can perform CRUD operations in this application.
     - This project is not graded and was done with the guidance of a lecturer.
-    
-  
-
+ - [Devops Assignment - a game review web application](https://github.com/carolyn2004/devops-assignment)
+    - A maven build java web application created with eclipse using Apache tomcat server.
+    - Application was integrated with jenkins to ensure continouse deployment.
+    - Application was also deployed using azure cloud.
+    - Code includes both selenium and junit software testing.
+    - Project was integrated with Jira for change management, bug management, automation and release management.
+      
 # 📫 How to reach me 📫
 - Let's get in touch!
 - You may view more information about me and my certification at my linkedin below :)
