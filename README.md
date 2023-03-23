@@ -70,7 +70,7 @@ Feel free to click on repositories to view all my projects.
     - This project is not graded and was done with the guidance of a lecturer.
  - [Devops Assignment - a game review web application](https://github.com/carolyn2004/devops-assignment)
     - A maven build java web application created with Eclipse using Apache Tomcat server.
-    - Application was integrated with Jenkins to ensure continouse deployment.
+    - Application was integrated with Jenkins to ensure continous integration and deployment.
     - Application was also deployed using Azure cloud.
     - Code includes both selenium and junit software testing.
     - Project was integrated with Jira for change management, bug management, automation and release management.
@@ -78,7 +78,8 @@ Feel free to click on repositories to view all my projects.
  - [Hearty Eats - a restaurant reservation website created with AWS services]
     - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS & Javascript). 
     - Made use of microservices architecture and created 3 microservices for this web application.
-    - Made use of dynamoDB for database, API gateway for routes and AWS lambda for coding the functionality.
+    - Made use of dynamoDB for database (store user & restaruant info, reservations etc), API gateway for routes and AWS lambda for coding the functionality.
+    - Made use of S3 Bucket to store user profile images.
     - Deployed using Elastic Beanstalk with Node.js server.
     - Attained A for this module - Cloud Application Development.
       
