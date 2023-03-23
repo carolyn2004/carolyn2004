@@ -85,12 +85,12 @@ Feel free to click on repositories to view all my projects.
  - [Diabetes Prediction - Able to predict whether one has diabetes or not]
     - Used python and flask to create a website which users can use to predict whether they have diabetes or not (Classifier).
     - HTML was used to design the website. 
-    - Used charts to visualize charts
-    - Used normalization techniques to reduce skewness of data
+    - Used charts to visualize charts.
+    - Used normalization techniques to reduce skewness of data.
     - Scaled data using standard scaler.
     - Used grid search to search for the best hyperparameters.
     - Performed feature selection to improve models accuracy.
-    - Attained A for this module - Machine Learning for Developers
+    - Attained A for this module - Machine Learning for Developers.
       
 # 📫 How to reach me 📫
 - Let's get in touch!
