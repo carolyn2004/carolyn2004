@@ -64,17 +64,22 @@ Feel free to click on repositories to view all my projects.
     - This project is not graded and was done with the guidance of a lecturer.
     
  - [Transport Expense Tracker - an application that helps users to keep track of their expenses](Transport-Expense-Tracker)
-    - This mobile application is built using flutter as well as google firebase to store user's data.
+    - This mobile application is built using Flutter as well as Google Firebase to store user's data.
     - Users can use this application to keep track of their travel expenses.
     - User can perform CRUD operations in this application.
     - This project is not graded and was done with the guidance of a lecturer.
  - [Devops Assignment - a game review web application](https://github.com/carolyn2004/devops-assignment)
-    - A maven build java web application created with eclipse using Apache tomcat server.
-    - Application was integrated with jenkins to ensure continouse deployment.
-    - Application was also deployed using azure cloud.
+    - A maven build java web application created with Eclipse using Apache Tomcat server.
+    - Application was integrated with Jenkins to ensure continouse deployment.
+    - Application was also deployed using Azure cloud.
     - Code includes both selenium and junit software testing.
     - Project was integrated with Jira for change management, bug management, automation and release management.
     - Attained A for this module - DevOps Essentials.
+ - [Hearty Eats - a restaurant reservation website created with AWS services]
+    - Made use of microservices architecture and created 3 microservices for this web application.
+    - Made use of dynamoDB for database, API gateway for routes and AWS lambda for coding the functionality.
+    - Deployed using Elastic Beanstalk with Node.js server.
+    - Attained A for this module - Cloud Application Development.
       
 # 📫 How to reach me 📫
 - Let's get in touch!
