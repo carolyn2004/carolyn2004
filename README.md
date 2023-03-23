@@ -63,7 +63,7 @@ Feel free to click on repositories to view all my projects.
     - Users can change the theme of the web application, and even after leaving the application the theme of the application remains.
     - This project is not graded and was done with the guidance of a lecturer.
     
- - [Transport Expense Tracker - an application that helps users to keep track of their expenses](Transport-Expense-Tracker)
+ - [Transport Expense Tracker - an application that helps users to keep track of their expenses](https://github.com/carolyn2004/Transport-Expense-Tracker)
     - This mobile application is built using Flutter as well as Google Firebase to store user's data.
     - Users can use this application to keep track of their travel expenses.
     - User can perform CRUD operations in this application.
