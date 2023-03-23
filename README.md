@@ -82,6 +82,15 @@ Feel free to click on repositories to view all my projects.
     - Made use of S3 Bucket to store user profile images.
     - Deployed using Elastic Beanstalk with Node.js server.
     - Attained A for this module - Cloud Application Development.
+ - [Diabetes Prediction - Able to predict whether one has diabetes or not]
+    - Used python and flask to create a website which users can use to predict whether they have diabetes or not (Classifier).
+    - HTML was used to design the website. 
+    - Used charts to visualize charts
+    - Used normalization techniques to reduce skewness of data
+    - Scaled data using standard scaler.
+    - Used grid search to search for the best hyperparameters.
+    - Performed feature selection to improve models accuracy.
+    - Attained A for this module - Machine Learning for Developers
       
 # 📫 How to reach me 📫
 - Let's get in touch!
