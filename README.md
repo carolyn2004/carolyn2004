@@ -94,7 +94,7 @@ Feel free to click on repositories to view all my projects.
     - These 3 factors are measured using humidity sensors, temperature sensors and pH sensors.
     - When these 3 factors are not at optimum levels farmers/users will be notified via SNS (simple notification service). A photograph will also be captured and sent to S3 bucket.
     - Automated systems (air-conditioning, heater, humidifier, dehumidifier etc) are equipped to manage these 3 factors when not at optimum levels.
-    - Attained B+ for this module IoT application development.
+    - Attained B+ for this module - IoT application development.
       
 # 📫 How to reach me 📫
 - Let's get in touch!
