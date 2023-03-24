@@ -88,6 +88,12 @@ Feel free to click on repositories to view all my projects.
     - Used grid search to search for the best hyperparameters.
     - Performed feature selection to improve models accuracy.
     - Attained A for this module - Machine Learning for Developers.
+  - [HTP Agricultural IoT - Simulation created with AWS services] 
+    - HTP agricultural management IoT manages 3 important factors which affect photosynthesis and plant growth.
+    - Managing these 3 factors – humidity, temperature, and pH, will ensure that greenhouse crops grow more effectively and efficiently. 
+    - These 3 factors are measured using humidity sensors, temperature sensors and pH sensors.
+    - When these 3 factors are not at optimum levels farmers/users will be notified via SNS (simple notification service). A photograph will also be captured and sent to S3 bucket.
+    - Automated systems (air-conditioning, heater, humidifier, dehumidifier etc) are equipped to manage these 3 factors when not at optimum levels.
       
 # 📫 How to reach me 📫
 - Let's get in touch!
