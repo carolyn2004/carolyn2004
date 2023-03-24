@@ -43,7 +43,7 @@ Feel free to click on repositories to view all my projects.
     - Assignments involve concepts of stacks, queues, linked lists and trees, searching techniques and sorting algorithms.
     - Attained A for this module - Data Structures and Algorithm.
  
- - [Agile-Methodology-and-Design-Thinking-Assignment](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment)
+ - [Agile Methodology and Design Thinking Assignment](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment)
     - This module taught me more about agile and scrum principles.
     - This was my first exposure to the software, Jira. 
     - Proposed an application called Owl inc recommending study areas to those who may not have a condusive environment to study at home during Covid 19. 
