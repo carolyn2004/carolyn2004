@@ -75,12 +75,12 @@ Feel free to click on repositories to view all my projects.
  - [Hearty Eats - a restaurant reservation website created with AWS services]
     - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS & Javascript). 
     - Made use of microservices architecture and created 3 microservices for this web application.
-    - Made use of dynamoDB for database (store user & restaruant info, reservations etc), API gateway for routes and AWS lambda for coding the functionality.
+    - Made use of DynamoDB for database (store user & restaruant info, reservations etc), API gateway for routes and AWS lambda for coding the functionality.
     - Made use of S3 Bucket to store user profile images.
     - Deployed using Elastic Beanstalk with Node.js server.
     - Attained A for this module - Cloud Application Development.
  - [Diabetes Prediction - Able to predict whether one has diabetes or not]
-    - Used python and flask to create a website which users can use to predict whether they have diabetes or not (Classifier).
+    - Used Python and Flask to create a website which users can use to predict whether they have diabetes or not (Classifier).
     - HTML was used to design the website. 
     - Used charts to visualize charts.
     - Used normalization techniques to reduce skewness of data.
