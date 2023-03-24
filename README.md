@@ -2,8 +2,6 @@
 - Hi there! I am Carolyn a student pursuing a diploma in Information Technology from 2021-2024.
 - I am interested in areas such as UX design, web development and application development.
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=carolyn2004&show_icons=true&theme=radical" />
-
 # 🌞 Projects I've worked on 🌞
 Disclaimer: All images used in projects are sourced from the internet. I do not own any of the pictures. These images were used for school projects only and for no monetary purposes. This applies to certain texts and information used as well.
 
