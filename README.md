@@ -72,7 +72,7 @@ Feel free to click on repositories to view all my projects.
     - Code includes both selenium and junit software testing.
     - Project was integrated with Jira for change management, bug management, automation and release management.
     - Attained A for this module - DevOps Essentials.
- - [Hearty Eats - a restaurant reservation website created with AWS services]
+ - [Hearty Eats - a restaurant reservation website created with AWS services](https://github.com/carolyn2004/Hearty-Eats)
     - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS & Javascript). 
     - Made use of microservices architecture and created 3 microservices for this web application.
     - Made use of DynamoDB for database (store user & restaruant info, reservations etc), API gateway for routes and AWS lambda for coding the functionality.
