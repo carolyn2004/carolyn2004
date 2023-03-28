@@ -3,7 +3,7 @@
 - I am interested in areas such as UX design, web development and application development.
 
 ![Carolyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 🧰 Language and Tools I am familiar 🧰
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
