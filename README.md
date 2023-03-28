@@ -2,13 +2,10 @@
 - Hi there! I am Carolyn a student pursuing a diploma in Information Technology from 2021-2024.
 - I am interested in areas such as UX design, web development and application development.
 
-<div style="display: flex; gap: 1rem;">
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true" alt="GitHub Stats" />
+<div style="display: flex;">
+  <img style="height: 200px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true" alt="GitHub Stats" />
   <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&theme=radical&hide=jupyter%20notebook&layout=compact" alt="Top Languages" />
 </div>
-
-
-
 
 # 🧰 Language and Tools I am familiar 🧰
 
