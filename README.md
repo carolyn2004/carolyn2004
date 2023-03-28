@@ -2,6 +2,8 @@
 - Hi there! I am Carolyn a student pursuing a diploma in Information Technology from 2021-2024.
 - I am interested in areas such as UX design, web development and application development.
 
+[![Carolyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolyn2004)](https://github.com/anuraghazra/github-readme-stats)
+
 # 🧰 Language and Tools I am familiar 🧰
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
