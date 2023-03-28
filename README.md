@@ -5,7 +5,7 @@
 
     <img style=" height: 400px;"src="https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true" />
  
-    <img style=" height: 400px ;src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&hide=jupyter%20notebook&layout=compact&theme=radical" />
+    <img style=" height: 400px ;src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&hide=jupyter%20notebook&layout=compact" />
 
 
 # 🧰 Language and Tools I am familiar 🧰
