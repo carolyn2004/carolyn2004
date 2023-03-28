@@ -3,7 +3,7 @@
 - I am interested in areas such as UX design, web development and application development.
 
 <img style=" height: 200px;" src="https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true" />
-<img style=" height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&hide=jupyter%20notebook&layout=compact" />
+<img style=" height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&theme=radical&hide=jupyter%20notebook&layout=compact" />
 
 
 # 🧰 Language and Tools I am familiar 🧰
