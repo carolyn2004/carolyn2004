@@ -2,14 +2,12 @@
 - Hi there! I am Carolyn a student pursuing a diploma in Information Technology from 2021-2024.
 - I am interested in areas such as UX design, web development and application development.
 
-<div style="display: flex; flex-direction: column; height: 400px;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&hide=jupyter%20notebook&layout=compact" />
-  </div>
-</div>
+
+    <img style=" height: 400px;"src="https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true" />
+ 
+    <img style=" height: 400px ;src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&hide=jupyter%20notebook&layout=compact&theme=radical" />
+
+
 # 🧰 Language and Tools I am familiar 🧰
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
