@@ -3,8 +3,8 @@
 - I am interested in areas such as UX design, web development and application development.
 
 <div style="display: flex; padding-right: 10px;">
-  <img style="height: 170px;" src="https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true" alt="GitHub Stats" />
-  <img style="height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&theme=radical&hide=jupyter%20notebook&layout=compact" alt="Top Languages" />
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=carolyn2004&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyn2004&theme=radical&hide=jupyter%20notebook&layout=compact" alt="Top Languages" />
 </div>
 
 
