@@ -27,7 +27,7 @@
 <img img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br><br>
 
 
-# 🌞 Projects I've worked on 🌞
+# 🌞 Projects 🌞
 Disclaimer: All images used in projects are sourced from the internet. I do not own any of the pictures. These images were used for school projects only and for no monetary purposes. This applies to certain texts and information used as well.
 
 Feel free to click on repositories to view all my projects.
