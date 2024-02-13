@@ -50,6 +50,12 @@ Feel free to click on repositories to view all my projects.
     - This project is not graded and was done with the guidance of a lecturer.
     - Users are able to leave reviews and ratings on each of the movies as well as read more about each movie.
   
+ - [Agile Methodology and Design Thinking Assignment](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment)
+    - This module taught me more about agile and scrum principles.
+    - This was my first exposure to the software, Jira. 
+    - Proposed an application called Owl inc recommending study areas to those who may not have a condusive environment to study at home during Covid 19. 
+    - Attained A for this module - Agile-Methodology-and-Design-Thinking.
+  
 - [The Hungry Bear - a restaurant review web application](https://github.com/carolyn2004/The-Hungry-Bear)
   - This was my first web application created using HTML, CSS (design), Javascript, MySQL (database) & Node server.js made from scratch.
   - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS). 
@@ -61,12 +67,7 @@ Feel free to click on repositories to view all my projects.
     - This module was my first exposure to the computing language, python.
     - Assignments involve concepts of stacks, queues, linked lists and trees, searching techniques and sorting algorithms.
     - Attained A for this module - Data Structures and Algorithm.
- 
- - [Agile Methodology and Design Thinking Assignment](https://github.com/carolyn2004/Agile-Methodology-and-Design-Thinking-Assignment)
-    - This module taught me more about agile and scrum principles.
-    - This was my first exposure to the software, Jira. 
-    - Proposed an application called Owl inc recommending study areas to those who may not have a condusive environment to study at home during Covid 19. 
-    - Attained A for this module - Agile-Methodology-and-Design-Thinking.
+
 
   - [Euphoria - a music streaming app](https://github.com/carolyn2004/Euphoria)
     - This was my first android coding project made using android studio and java (Module: Computational Thinking). 
