@@ -31,35 +31,31 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
 
 Feel free to click on repositories to view all my projects.
 
-
-- [Euphoria - a music streaming app](https://github.com/carolyn2004/Euphoria)
-  - This was my first android coding project made using android studio and java (Module: Computational Thinking). 
-  - I learnt about andorid SDK and the different components of an android mobile application.
-  - Individually coded each of the functionalities of the music streaming application. 
-  - I also designed it using Adobe XD (Module: User Experience and Interface Design).
-   - Attained B for Computational Thinking module.
-   - Attained distinction for User Experience and Interface Design.
-  
-
-- [The Hungry Bear - a restaurant review web application](https://github.com/carolyn2004/The-Hungry-Bear)
-  - This was my first web application created using HTML, CSS (design), Javascript, MySQL (database) & Node server.js made from scratch.
-  - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS). 
-  - Learnt about the front end and backend of creating a web application (3 tier web architecture).
-  - This is a single page web application.
-  - Attained A for both modules involved in this project - Coding and Development Project & Database Application Development.
-
 - [Econative - an ecommerce website selling sustainable products](https://github.com/carolyn2004/Econative)
   - A dynamic web application developed using Mongo, Express, Angular framework, and Node.js.
   - Both frontend and backend of web application was built from scratch.
   - Used libraries such as leaflet js. to display a map of the store's physical location. 
   - Web application was coded using VS code and this is a single based web application.
   - Attained A for this module - Full Stack Web Development.
-  
+ 
  - [My Plate - a mobile application aimed to promote healthy living](https://github.com/carolyn2004/My-Plate)
     - A health app aimed to encourage users to be more cautious of their health and calorie intake.
     - A flutter mobile application programmed on android studio using dart language.
     - The database used for this application is Google Firebase.
     - Attained A for this module - Mobile Application Development.
+  
+ - [Movie Review Website - a movie review web application](https://github.com/carolyn2004/Movie-Review-Website)
+    - This website was also built using 3 tier web architecture and is also a single-page web application.
+    - It was created using HTML, CSS (design), Javascript, MYSQL (database) & Node server.js from scratch.
+    - This project is not graded and was done with the guidance of a lecturer.
+    - Users are able to leave reviews and ratings on each of the movies as well as read more about each movie.
+  
+- [The Hungry Bear - a restaurant review web application](https://github.com/carolyn2004/The-Hungry-Bear)
+  - This was my first web application created using HTML, CSS (design), Javascript, MySQL (database) & Node server.js made from scratch.
+  - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS). 
+  - Learnt about the front end and backend of creating a web application (3 tier web architecture).
+  - This is a single page web application.
+  - Attained A for both modules involved in this project - Coding and Development Project & Database Application Development.
     
  - [Data Structures and Algorithm Assignments](https://github.com/carolyn2004/Data-Structures-and-Algorithm-Assignments)
     - This module was my first exposure to the computing language, python.
@@ -71,13 +67,16 @@ Feel free to click on repositories to view all my projects.
     - This was my first exposure to the software, Jira. 
     - Proposed an application called Owl inc recommending study areas to those who may not have a condusive environment to study at home during Covid 19. 
     - Attained A for this module - Agile-Methodology-and-Design-Thinking.
-  
- - [Movie Review Website - a movie review web application](https://github.com/carolyn2004/Movie-Review-Website)
-    - This website was also built using 3 tier web architecture and is also a single-page web application.
-    - It was created using HTML, CSS (design), Javascript, MYSQL (database) & Node server.js from scratch.
-    - This project is not graded and was done with the guidance of a lecturer.
-    - Users are able to leave reviews and ratings on each of the movies as well as read more about each movie.
-    
+
+  - [Euphoria - a music streaming app](https://github.com/carolyn2004/Euphoria)
+    - This was my first android coding project made using android studio and java (Module: Computational Thinking). 
+    - I learnt about andorid SDK and the different components of an android mobile application.
+    - Individually coded each of the functionalities of the music streaming application. 
+    - I also designed it using Adobe XD (Module: User Experience and Interface Design).
+    - Attained B for Computational Thinking module.
+    - Attained distinction for User Experience and Interface Design.
+
+
  - [Theme Picker - an application that can change themes](https://github.com/carolyn2004/Theme-Picker)
     - Through this flutter project, I learnt about the concept of shared preferences.
     - Users can change the theme of the web application, and even after leaving the application the theme of the application remains.
@@ -95,6 +94,7 @@ Feel free to click on repositories to view all my projects.
     - Code includes both selenium and junit software testing.
     - Project was integrated with Jira for change management, bug management, automation and release management.
     - Attained A for this module - DevOps Essentials.
+      
  - [Hearty Eats - a restaurant reservation website created with AWS services](https://github.com/carolyn2004/Hearty-Eats)
     - Used Adobe XD to create UX design of the website then coded it onto Visual Studio Code (HTML & CSS & Javascript). 
     - Made use of microservices architecture and created 3 microservices for this web application.
@@ -102,6 +102,7 @@ Feel free to click on repositories to view all my projects.
     - Made use of S3 Bucket to store user profile images.
     - Deployed using Elastic Beanstalk with Node.js server.
     - Attained A for this module - Cloud Application Development.
+  
  - [Diabetes Prediction - able to predict whether one has diabetes or not](https://github.com/carolyn2004/Diabetes-Prediction)
     - Used Python and Flask to create a website which users can use to predict whether they have diabetes or not (Classifier).
     - HTML was used to design the website. 
@@ -111,6 +112,7 @@ Feel free to click on repositories to view all my projects.
     - Used grid search to search for the best hyperparameters.
     - Performed feature selection to improve models accuracy.
     - Attained A for this module - Machine Learning for Developers.
+    
   - [HTP Agricultural IoT - simulation created with AWS services](https://github.com/carolyn2004/HTP-Agricultural-IoT)
     - HTP agricultural management IoT manages 3 important factors which affect photosynthesis and plant growth.
     - Managing these 3 factors – humidity, temperature, and pH, will ensure that greenhouse crops grow more effectively and efficiently. 
