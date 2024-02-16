@@ -30,6 +30,11 @@ Disclaimer: All images used in projects are sourced from the internet. I do not 
 
 Feel free to click on repositories to view all my projects.
 
+In Progress:
+- [Makan my GPA - a website which calculates your GPA and shows you what food options you can get](https://github.com/carolyn2004/Makan-My-GPA)
+  - Designed with Figma, click to take a look at my proposed design!
+
+Completed:
 - [Econative - an ecommerce website selling sustainable products](https://github.com/carolyn2004/Econative)
   - A dynamic web application developed using Mongo, Express, Angular framework, and Node.js.
   - Both frontend and backend of web application was built from scratch.
