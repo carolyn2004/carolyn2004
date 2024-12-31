@@ -1,5 +1,5 @@
 # 🌸 About Me 🌸
-- Hi there! I am Carolyn a student pursuing a diploma in Information Technology from 2021-2024.
+- Hi there! I am Carolyn a student pursuing a degree in Information Systems in Singapore Management University from 2024 - 2028.
 - I am interested in areas such as UX design, web development and application development.
 
 <div style="display: flex; padding-right: 10px;">
