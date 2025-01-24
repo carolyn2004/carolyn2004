@@ -38,7 +38,7 @@ In Progress:
 
 Completed:
 ## University Projects
-- [Medipal - Microbit application with vanilla js, html and css](https://github.com/carolyn2004/Medipal)
+- [Medipal - Microbit application with Vanilla JS, HTML and CSS](https://github.com/carolyn2004/Medipal)
   - A real-time health monitoring system developed using Micro:bits and Python.
   - Integrated hardware components like accelerometers and temperature sensors for data collection.
   - Designed and hosted webpages using AWS and ThingSpeak for data visualization.
