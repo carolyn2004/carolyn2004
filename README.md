@@ -37,6 +37,15 @@ In Progress:
   - Angular based web application with google firebase firestore
 
 Completed:
+## University Projects
+- [Medipal - Microbit application with vanilla js, html and css](https://github.com/carolyn2004/Medipal)
+  - A real-time health monitoring system developed using Micro:bits and Python.
+  - Integrated hardware components like accelerometers and temperature sensors for data collection.
+  - Designed and hosted webpages using AWS and ThingSpeak for data visualization.
+  - Implemented secure login functionality with Firebase Firestore for user authentication.
+  - Attained A for this module – Computing Fundamentals.
+
+## Polytechnic Projects
 - [Econative - an ecommerce website selling sustainable products](https://github.com/carolyn2004/Econative)
   - A dynamic web application developed using Mongo, Express, Angular framework, and Node.js.
   - Both frontend and backend of web application was built from scratch.
