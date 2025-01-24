@@ -33,6 +33,8 @@ Feel free to click on repositories to view all my projects.
 In Progress:
 - [Makan my GPA - a website which calculates your GPA and shows you what food options you can get](https://github.com/carolyn2004/Makan-My-GPA)
   - Designed with Figma, click to take a look at my proposed design!
+- [Bookaroo - a book exchange platform for physical books](https://github.com/carolyn2004/bookaroo)
+  - Angular based web application with google firebase firestore
 
 Completed:
 - [Econative - an ecommerce website selling sustainable products](https://github.com/carolyn2004/Econative)
